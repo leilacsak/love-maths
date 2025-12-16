@@ -19,18 +19,18 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
-function (runGame) {}
+function runGame() {}
 
-function (chekcAnswer) {}
+function chekcAnswer() {}
 
-function (calculateCorrectAnswer) {}
+function calculateCorrectAnswer() {}
 
-function (incrementScore) {}
+function incrementScore() {}
 
-function (incrementWrongAnswer) {}
+function incrementWrongAnswer() {}
 
-function (displayAdditionQuestion) {}
+function displayAdditionQuestion() {}
 
-function (displaySubtractQuestion) {}
+function displaySubtractQuestion() {}
 
-function (displayMultiplyQuestion) {}
+function displayMultiplyQuestion() {}
